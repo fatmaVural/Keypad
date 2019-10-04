@@ -1,0 +1,26 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"5 configBit.c
+[; ;configBit.c: 5: void init_configBit(){
+[v _init_configBit `(v ~T0 @X0 1 ef ]
+{
+[e :U _init_configBit ]
+[f ]
+"15
+[e :UE 1 ]
+}
+"6
+[p x FOSC = XT ]
+"7
+[p x WDTE = OFF ]
+"8
+[p x PWRTE = OFF ]
+"9
+[p x BOREN = OFF ]
+"10
+[p x LVP = OFF ]
+"11
+[p x CPD = OFF ]
+"12
+[p x WRT = OFF ]
+"13
+[p x CP = OFF ]
